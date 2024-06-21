@@ -1,7 +1,7 @@
 # Installation
  make sure you have degit [degit](https://github.com/Rich-Harris/degit)
 ```js
-degit git@github.com:MamedovOFF/repo
+degit git@github.com:MamedovOFF/vite-react-mdev
 ```
 
 # React + TypeScript + Vite
